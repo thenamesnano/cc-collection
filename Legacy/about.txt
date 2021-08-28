@@ -1,0 +1,4 @@
+# cc-collection/Legacy
+------------------------------------------------------------
+This subset of scripts found on my legacy modpacks.
+They are not going to be updated and are likely bad solutions.

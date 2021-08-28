@@ -1,0 +1,4 @@
+# cc-collection/Standard
+------------------------------------------------------------
+This subset of scripts if for general utilities.
+They are meant to be added the path of a given computer.
